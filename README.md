@@ -2,5 +2,7 @@
 
 
 Resolução da apostila Caelum 
-Tecnologias: HTML, CSS e JavaScript
+
+Tecnologias: HTML, CSS e JavaScript.
+
 Aluna: Jaciana Barbosa 
